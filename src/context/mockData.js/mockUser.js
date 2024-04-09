@@ -1,0 +1,38 @@
+export default {
+  login: "levon-aslanyan",
+  id: 98942383,
+  node_id: "U_kgDOBeW9rw",
+  avatar_url: "https://avatars.githubusercontent.com/u/98942383?v=4",
+  gravatar_id: "",
+  url: "https://api.github.com/users/levon-aslanyan",
+  html_url: "https://github.com/levon-aslanyan",
+  followers_url: "https://api.github.com/users/levon-aslanyan/followers",
+  following_url:
+    "https://api.github.com/users/levon-aslanyan/following{/other_user}",
+  gists_url: "https://api.github.com/users/levon-aslanyan/gists{/gist_id}",
+  starred_url:
+    "https://api.github.com/users/levon-aslanyan/starred{/owner}{/repo}",
+  subscriptions_url:
+    "https://api.github.com/users/levon-aslanyan/subscriptions",
+  organizations_url: "https://api.github.com/users/levon-aslanyan/orgs",
+  repos_url: "https://api.github.com/users/levon-aslanyan/repos",
+  events_url: "https://api.github.com/users/levon-aslanyan/events{/privacy}",
+  received_events_url:
+    "https://api.github.com/users/levon-aslanyan/received_events",
+  type: "User",
+  site_admin: false,
+  name: "Levon Aslanyan",
+  company: "Persona Business Academy",
+  blog: "https://timer-guide.netlify.app/",
+  location: "Armenia, yerevan",
+  email: null,
+  hireable: null,
+  bio: "Frontend Developer",
+  twitter_username: "lyovasl2012",
+  public_repos: 20,
+  public_gists: 0,
+  followers: 2,
+  following: 3,
+  created_at: "2022-02-03T07:49:50Z",
+  updated_at: "2024-03-27T18:19:54Z",
+};
